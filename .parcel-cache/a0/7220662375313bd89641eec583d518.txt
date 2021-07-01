@@ -1,19 +1,9 @@
-20683
-194C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\pseudos.js121436361000000000 0
-130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\abab132696139978303587 1
-174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\WheelEvent-impl.js121436361000000000 0
-163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-syntax-class-properties132696139645770080 1
-124C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\.prettierrc132562249780000000 0
-141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\getpass\LICENSE131376371950000000 0
-185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\postcss\lib\vendor.js121436361000000000 0
-178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\source-map\lib\base64-vlq.js131369414910000000 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\import-fresh132696139762969147 1
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sax\lib\sax.js131426269370000000 0
+20685
 203C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\forkify-flowchart-part-1.png132562249780000000 0
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\throttle.js121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\debug\README.md121436361000000000 0
-117C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist132696141548820002 1
+117C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist132696238541158596 1
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Meroitic_Cursive.js121436361000000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@types\node\worker_threads.d.ts132692364760000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values132696139746816606 1
@@ -26,7 +16,26 @@
 134C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cssstyle132696139953374640 1
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\lib\constants.js121436361000000000 0
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\proximity.js121436361000000000 0
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\loader-utils\lib132696139173322536 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\loader-utils\lib132696139173618801 1
+175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\base\node_modules\is-accessor-descriptor\index.js131539902560000000 0
+163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2016\SetIntegrityLevel.js121436361000000000 0
+157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\VE.js121436361000000000 0
+159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\babylon-walk\package.json132696139715772377 0
+181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\postcss-value-parser132696139783776349 1
+123C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\.gitignore132696199157036984 0
+160C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Atrule.js121436361000000000 0
+192C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\index.js121436361000000000 0
+183C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Common.js121436361000000000 0
+194C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\pseudos.js121436361000000000 0
+130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\abab132696139978303587 1
+174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\WheelEvent-impl.js121436361000000000 0
+163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-syntax-class-properties132696139645770080 1
+124C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\.prettierrc132562249780000000 0
+141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\getpass\LICENSE131376371950000000 0
+185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\postcss\lib\vendor.js121436361000000000 0
+178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\source-map\lib\base64-vlq.js131369414910000000 0
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\import-fresh132696139762969147 1
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sax\lib\sax.js131426269370000000 0
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regjsparser\node_modules\jsesc\man\jsesc.1130397915180000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Yi.js121436361000000000 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ajv\lib\compile\error_classes.js121436361000000000 0
@@ -60,25 +69,25 @@
 175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\purgecss\node_modules\postcss\lib\previous-map.js121436361000000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\x86asm.js121436361000000000 0
 123C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\index.html132562249780000000 0
-200C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-whitespace\node_modules\postcss-value-parser\lib\unit.js121436361000000000 0
-165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\source-map\src\napi\SourceMap.h121436361000000000 0
-195C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\stringify.js121436361000000000 0
-161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-js\lib\visitors132696138779991153 1
-148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-values132696139741825950 1
-130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\package-lock.json132696141342738883 0
-151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\url\node_modules\punycode132696139700853538 1
 189C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\purgecss\node_modules\chalk\node_modules\supports-color\license131408182550000000 0
 174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\node_modules\postcss\docs132696139039450023 1
 171C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-svgo\node_modules\postcss\lib\list.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\math\sinh.js121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsbn\.npmignore131022038830000000 0
-125C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules132696141328223656 1
+125C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules132696141846092403 1
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\isarray\index.js130942154810000000 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\readable-stream\experimentalWarning.js121436361000000000 0
 186C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-comments\node_modules\chalk\types\index.d.ts121436361000000000 0
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\scss\railscasts.scss121436361000000000 0
 193C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-display-values\node_modules\ansi-styles\readme.md131628273600000000 0
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\url\node_modules\querystring\test132696138822192099 1
+200C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-whitespace\node_modules\postcss-value-parser\lib\unit.js121436361000000000 0
+165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\source-map\src\napi\SourceMap.h121436361000000000 0
+195C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\stringify.js121436361000000000 0
+161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-js\lib\visitors132696138779991153 1
+148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-values132696139741825950 1
+130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\package-lock.json132696141865756992 0
+151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\url\node_modules\punycode132696139700853538 1
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable132696139422532217 1
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-comments\node_modules\ansi-styles\readme.md131628273600000000 0
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeUselessStrokeAndFill.js121436361000000000 0
@@ -94,7 +103,7 @@
 133C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\yallist132696139666759044 1
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regjsparser\LICENSE.BSD121436361000000000 0
 194C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
-125C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\package.json132696141539345133 0
+125C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\package.json132696141857066323 0
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\aborting\AbortSignal-impl.js121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\xtend\.jshintrc121436361000000000 0
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-unique-selectors\node_modules\postcss\README.md121436361000000000 0
@@ -192,7 +201,7 @@
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\console-browserify\package.json132696139961740352 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\browserify-des\.travis.yml121436361000000000 0
 139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ret\README.md131391076780000000 0
-156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\codeStyles132696139165266031 1
+156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\codeStyles132696139171962176 1
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\call-bind\test132696139226504489 1
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\w3c-xmlserializer\README.md121436361000000000 0
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\purgecss\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
@@ -235,7 +244,7 @@
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\to-regex-range132696139717484608 1
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Duployan.js121436361000000000 0
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-initial\node_modules\postcss\lib\rule.js121436361000000000 0
-155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\core\node_modules\.bin132696139992196592 1
+155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\core\node_modules\.bin132696139999107012 1
 134C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\asynckit132696139972854832 1
 136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\terser\lib132696139042539750 1
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\General_Category\Other.js121436361000000000 0
@@ -300,7 +309,7 @@
 180C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-ordered-values\node_modules\has-flag\readme.md131593942790000000 0
 132C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel132696139605441403 1
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\unpipe\HISTORY.md130787873820000000 0
-133C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132562249780000000 0
+133C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132696238535127980 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\types\lib\builders\flow\createFlowUnionType.js121012626000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sprintf-js\package.json132696139734180301 0
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon-util\package.json132696139747378430 0
@@ -395,7 +404,7 @@
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ajv\lib\dotjs\pattern.js121436361000000000 0
 133C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel132696141326035319 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\coa\node_modules\chalk\types132696139236504134 1
-130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin132696141327940569 1
+130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin132696141845970366 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\relateurl\lib\parse\query.js131129763960000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@types\node\process.d.ts132692364750000000 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\HourFromTime.js121436361000000000 0
@@ -968,10 +977,6 @@
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\flatMapDeep.js121436361000000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\w3c-hr-time\CHANGELOG.md132279289610000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-initial132696139739002943 1
-180C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\LICENSE-MIT121436361000000000 0
-197C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts121436361000000000 0
-185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-scope\node_modules\postcss\lib\processor.js121436361000000000 0
-189C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-values\node_modules\postcss\lib\previous-map.js121436361000000000 0
 138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\color-string132696139751232143 1
 175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\chalk\types132696139104415796 1
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-scope\node_modules\ansi-styles\readme.md131628273600000000 0
@@ -1462,7 +1467,7 @@
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\verror\README.md131382167760000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ripemd160\LICENSE131685915220000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\module_dir\ymodules\aaa132696139147896477 1
-154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-sass\src132696141324939431 1
+154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-sass\src132696141325047213 1
 131C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sshpk132696139715416577 1
 137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\escape-html132696139943046195 1
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-calc\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
@@ -1664,7 +1669,7 @@
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\node_modules\postcss\CHANGELOG.md121436361000000000 0
 189C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\stringify.js121436361000000000 0
 139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\get-intrinsic132696139931727792 1
-143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sass\package.json132696141327100539 0
+143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sass\package.json132696141845497304 0
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\pako\lib\zlib\gzheader.js121436361000000000 0
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\pad-end.js121436361000000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\tweetnacl\CHANGELOG.md131261002890000000 0
@@ -1673,7 +1678,7 @@
 197C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-timing-functions\node_modules\color-convert\README.md121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml-render132696139771368691 1
 134C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\get-port132696139666079082 1
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mkdirp\bin132696139162579365 1
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mkdirp\bin132696139168264522 1
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\dist\lib\parseWsc.js121436361000000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.uint8-clamped-array.js121436361000000000 0
 195C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-declaration-sorter\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
@@ -1842,7 +1847,7 @@
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\safe-buffer\LICENSE121436361000000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-url\readme.md121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\unbox-primitive\.github132696138777452886 1
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\bin132696139175042658 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\bin132696139176864857 1
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-wrap-function\lib132696138849288038 1
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\xmlchars\xml\1.1\ed2.js121436361000000000 0
 174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\code-point-at.js121436361000000000 0
@@ -1904,11 +1909,11 @@
 131C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\iferr132696139926674477 1
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-empty\node_modules\postcss\lib\parse.js121436361000000000 0
 139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-typedarray132696139910283497 1
-173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Elbasan.js121436361000000000 0
-145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sha.js\test\hash.js132696139061922382 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@nodelib\fs.scandir\out\constants.d.ts121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\deep-is\test\cmp.js130533840800000000 0
 187C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\source-map\dist\source-map.min.js.map131477959740000000 0
+173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Elbasan.js121436361000000000 0
+145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sha.js\test\hash.js132696139061922382 0
 137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-arrayish132696139923662081 1
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sshpk\lib\private-key.js131898308050000000 0
 136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\indexes-of132696139923785379 1
@@ -2023,7 +2028,7 @@
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-unicode-supported132696139910283497 1
 132C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-url132696139908611394 1
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss\lib\stringify.js121436361000000000 0
-153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files\src132696139178941813 1
+153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files\src132696139179942531 1
 136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-windows132696139908574651 1
 196C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple121436361000000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\node_modules\chalk\package.json132696139729708378 0
@@ -2213,7 +2218,7 @@
 172C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stylehacks\node_modules\color-convert\route.js121436361000000000 0
 132C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\split2132696139685958247 1
 197C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-transforms\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
-155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimalistic-crypto-utils\lib132696139173878828 1
+155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimalistic-crypto-utils\lib132696139175308519 1
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\xml-name-validator132696139666919309 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\inherits\inherits_browser.js121436361000000000 0
 178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\node_modules\color-convert132696139785878361 1
@@ -2328,7 +2333,7 @@
 132C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\parse5132696139841717010 1
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration132696138740831556 1
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\extsprintf\LICENSE130610031810000000 0
-148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\example132696139168910942 1
+148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\example132696139174079152 1
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\word-wrap\index.js131409317970000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-typed-array\index.js121436361000000000 0
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2015\RequireObjectCoercible.js121436361000000000 0
@@ -2551,7 +2556,7 @@
 189C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\resolver\multirepo\packages\package-b\package.json121436361000000000 0
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\which-boxed-primitive\.github132696138784839202 1
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uri-js\dist\esnext\schemes\wss.js121436361000000000 0
-144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\src\modules132696139155517197 1
+144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\src\modules132696139156131551 1
 138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\range-parser132696139768299235 1
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\shuffle.js121436361000000000 0
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-scope\node_modules\supports-color\readme.md131663821590000000 0
@@ -2589,7 +2594,7 @@
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\LICENSE121436361000000000 0
 194C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-extract-imports\node_modules\postcss\CONTRIBUTING.md121436361000000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_cloneSymbol.js121436361000000000 0
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\types132696141325181325 1
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\types132696141325221679 1
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sha.js\test\vectors.js132696139062465313 0
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\extend-shallow\package.json132696139748700718 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\run-parallel\README.md121436361000000000 0
@@ -2616,7 +2621,7 @@
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hex-color-regex\README.md131409269780000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Binary_Property\Dash.js121436361000000000 0
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Gujarati.js121436361000000000 0
-130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sass132696141327638542 1
+130C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sass132696141845813289 1
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\unbox-primitive\.github\FUNDING.yml121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\unset-value\README.md131325351670000000 0
 172C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-not-sel-list.js121436361000000000 0
@@ -3065,7 +3070,7 @@
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values\node_modules\postcss\lib\node.js121436361000000000 0
 188C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\source-map\lib\source-map-generator.js131411568470000000 0
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-transform-react-jsx\README.md121012626000000000 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\css132696139201097435 1
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\css132696139201681909 1
 178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Sora_Sompeng.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\terser\tools\props.html121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\wrappy\package.json132696139673394363 0
@@ -3875,6 +3880,10 @@
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\SetIntegrityLevel.js121436361000000000 0
 175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-calc\node_modules\postcss\lib\tokenize.js121436361000000000 0
 173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist132696138924260471 1
+180C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\LICENSE-MIT121436361000000000 0
+197C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts121436361000000000 0
+185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-scope\node_modules\postcss\lib\processor.js121436361000000000 0
+189C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-values\node_modules\postcss\lib\previous-map.js121436361000000000 0
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ansi-regex\license121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\statuses\codes.json131666722490000000 0
 171C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\resolver\incorrect_main\index.js121436361000000000 0
@@ -4057,14 +4066,6 @@
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-empty\dist132696138965673041 1
 193C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\guards.js121436361000000000 0
 189C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\id.js121436361000000000 0
-175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\base\node_modules\is-accessor-descriptor\index.js131539902560000000 0
-163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2016\SetIntegrityLevel.js121436361000000000 0
-157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\VE.js121436361000000000 0
-159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\babylon-walk\package.json132696139715772377 0
-181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\postcss-value-parser132696139783776349 1
-160C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Atrule.js121436361000000000 0
-192C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\index.js121436361000000000 0
-183C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Common.js121436361000000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-whitespace\node_modules\ansi-styles132696139782510534 1
 196C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\namespace.js121436361000000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\dist\index.js121436361000000000 0
@@ -4149,7 +4150,7 @@
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\package.json132696141326532988 0
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\node_modules\postcss\docs\guidelines132696139038675093 1
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\lib\node.js121436361000000000 0
-168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-json\node_modules\.bin132696139999145256 1
+168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-json\node_modules\.bin132696139999175434 1
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\IsExtensible.js121436361000000000 0
 166C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\lib\parser.js121436361000000000 0
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
@@ -4840,7 +4841,7 @@
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\moveGroupAttrsToElems.js121436361000000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cssstyle\lib\properties\stopColor.js121436361000000000 0
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\scope\selector.js121436361000000000 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimist\test132696139179697268 1
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimist\test132696139179920485 1
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@nodelib\fs.stat\out\adapters\fs.js121436361000000000 0
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-rules\node_modules\postcss\lib\tokenize.js121436361000000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-selector-parser\CHANGELOG.md121436361000000000 0
@@ -5100,7 +5101,7 @@
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nth-check\index.js121436361000000000 0
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stylehacks\node_modules\postcss\lib\declaration.js121436361000000000 0
 175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-initial\node_modules\color-convert132696139780673437 1
-157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\.github\workflows132696139180521935 1
+157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\.github\workflows132696139184496099 1
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stylehacks\node_modules\postcss\lib\lazy-result.js121436361000000000 0
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stylehacks\node_modules\postcss\lib\list.js121436361000000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-svgo\node_modules\postcss\lib\previous-map.js121436361000000000 0
@@ -5164,7 +5165,7 @@
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2015\MakeDate.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\signal-exit\LICENSE.txt121436361000000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\scss\default.scss121436361000000000 0
-164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\inspectionProfiles132696139176390397 1
+164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\inspectionProfiles132696139178078924 1
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\astring.ps1132696139994656199 0
 184C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Soyombo.js121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\overEvery.js121436361000000000 0
@@ -5348,7 +5349,7 @@
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stream-http\index.js121436361000000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\argparse\lib\help\formatter.js131631780190000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stream-http\LICENSE121436361000000000 0
-159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\symlink-fixtures\src\dir132696139197122215 1
+159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\symlink-fixtures\src\dir132696139203680028 1
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stream-http\package.json132696139660914184 0
 190C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-ordered-values\node_modules\color-convert\conversions.js121436361000000000 0
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\iconv-lite\encodings\dbcs-data.js131794416590000000 0
@@ -5491,7 +5492,7 @@
 183C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\node_modules\has-flag\package.json132696139815231774 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\split2\test.js121436361000000000 0
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\escape.js121436361000000000 0
-155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regjsparser\node_modules\.bin132696140001030631 1
+155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regjsparser\node_modules\.bin132696140001055881 1
 200C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-timing-functions\node_modules\postcss\lib\lazy-result.js121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\split-string\index.js131555804130000000 0
 174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-support\browser-source-map-support.js121436361000000000 0
@@ -5639,7 +5640,7 @@
 187C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\comment.js121436361000000000 0
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\cal.js121436361000000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\source-map\dist\source-map.js131477959740000000 0
-133C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\bin132696139161887670 1
+133C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\bin132696139165053030 1
 183C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon\node_modules\source-map\dist\source-map.min.js131477959740000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-number-object\.github\FUNDING.yml121436361000000000 0
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-colormin\node_modules\postcss132696139748868651 1
@@ -5930,7 +5931,7 @@
 180C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2015\ValidateAndApplyPropertyDescriptor.js121436361000000000 0
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.index-of.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\rgb-regex\.editorconfig130673040540000000 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\lib132696139173594280 1
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\lib132696139174877582 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\some.js121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\rgb-regex\.travis.yml130673040540000000 0
 138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\elliptic\lib132696139179818673 1
@@ -6068,7 +6069,7 @@
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\resolver\cup.coffee121436361000000000 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-value-parser\lib\unit.js121436361000000000 0
 172C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-js\src\visitors\modules.js121436361000000000 0
-156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimalistic-crypto-utils\test132696139175308519 1
+156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimalistic-crypto-utils\test132696139176967349 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\resolver\foo.js121436361000000000 0
 160C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\resolver\invalid_main132696139298763093 1
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss\lib\result.js121436361000000000 0
@@ -6706,7 +6707,7 @@
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\generator\lib\generators\modules.js121012626000000000 0
 178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-transforms\node_modules\chalk\license121436361000000000 0
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Tai_Viet.js121436361000000000 0
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\flash132696139270937183 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\flash132696139274891234 1
 183C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Tangut.js121436361000000000 0
 197C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-display-values\node_modules\supports-color\browser.js121436361000000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\wrapperAt.js121436361000000000 0
@@ -6845,7 +6846,7 @@
 173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Kannada.js121436361000000000 0
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Kharoshthi.js121436361000000000 0
 171C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Khmer.js121436361000000000 0
-149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\test\fixtures132696139177501687 1
+149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\test\fixtures132696139178998283 1
 167C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\reduce-right.js121436361000000000 0
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\GlobalEventHandlers.js121436361000000000 0
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Lao.js121436361000000000 0
@@ -6978,7 +6979,7 @@
 211C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\browser.js121436361000000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\operations\2019.js121436361000000000 0
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules\node_modules\postcss\lib\previous-map.js121436361000000000 0
-173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\babel-plugin-polyfill-corejs2\node_modules\.bin132696139994999255 1
+173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\babel-plugin-polyfill-corejs2\node_modules\.bin132696139995041004 1
 172C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Tai_Le.js121436361000000000 0
 174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Tai_Viet.js121436361000000000 0
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\5\ToString.js121436361000000000 0
@@ -7765,7 +7766,7 @@
 187C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-scope\node_modules\color-convert\CHANGELOG.md121436361000000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-svgo\node_modules\chalk132696139773184446 1
 190C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cssnano-preset-default\node_modules\postcss\lib\map-generator.js121436361000000000 0
-145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanoid\url-alphabet132696139175042658 1
+145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanoid\url-alphabet132696139177995813 1
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-svgo\node_modules\postcss132696139737860027 1
 172C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\path-browserify\test\test-path-parse-format.js121436361000000000 0
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-rules\node_modules\supports-color\index.js121436361000000000 0
@@ -8077,7 +8078,7 @@
 184C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\node_modules\postcss\docs\syntax.md121436361000000000 0
 191C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-font-values\node_modules\color-name\.eslintrc.json131174093250000000 0
 196C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\warn-once.js121436361000000000 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\form-data\lib132696139179976905 1
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\form-data\lib132696139180882029 1
 208C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-transforms\node_modules\chalk\node_modules\supports-color\readme.md131663821590000000 0
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\core\lib\config\files132696138876503154 1
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-merge-longhand\README.md121436361000000000 0
@@ -8495,7 +8496,7 @@
 197C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\fs-write-stream-atomic\node_modules\string_decoder\package.json132696139979791594 0
 194C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\has-flag\license131408182550000000 0
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimist\example132696139176119876 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimist\example132696139177995813 1
 186C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\color-name\.eslintrc.json131174093250000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_baseSome.js121436361000000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\color-name\LICENSE130953959930000000 0
@@ -8909,7 +8910,7 @@
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-negative-zero\test132696139200394974 1
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_createRecurry.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\startsWith.js121436361000000000 0
-146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-addon-api\tools132696139179023181 1
+146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-addon-api\tools132696139185493818 1
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\package.json132696139744466174 0
 178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\chalk\index.js121436361000000000 0
 183C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\chalk\index.js.flow121436361000000000 0
@@ -9751,7 +9752,7 @@
 174C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\AbstractRelationalComparison.js121436361000000000 0
 190C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default\node_modules\color-name\LICENSE130953959930000000 0
 166C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\File.js121436361000000000 0
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\lib\des132696139181143781 1
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\lib\des132696139182583089 1
 175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\background-img-opts.js121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@types\node\dns132696139301261075 1
 195C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default\node_modules\color-name\package.json132696139799438936 0
@@ -10057,7 +10058,7 @@
 205C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\processor.js121436361000000000 0
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\types\lib\comments\inheritLeadingComments.js121012626000000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\index.js121436361000000000 0
-146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\flash\swf132696139274891234 1
+146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\flash\swf132696139276832102 1
 204C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\tokenize.js121436361000000000 0
 215C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\className.js121436361000000000 0
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chalk\source\templates.js121436361000000000 0
@@ -10114,7 +10115,7 @@
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\HTMLFrameSetElement.js121436361000000000 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2017\InstanceofOperator.js121436361000000000 0
 188C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss\lib\warn-once.js121436361000000000 0
-155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src132696139188797596 1
+155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src132696139191155683 1
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\.nycrc121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\astral-regex\index.js121436361000000000 0
 186C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss\lib\warning.js121436361000000000 0
@@ -10347,7 +10348,7 @@
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.slice.js121436361000000000 0
 184C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-gradients\node_modules\postcss\CHANGELOG.md121436361000000000 0
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\scss\isbl-editor-dark.scss121436361000000000 0
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css.map132696141548758653 0
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css.map132696238540892500 0
 184C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-gradients\node_modules\postcss\package.json132696139742185963 0
 208C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested132696138923791190 1
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\isDate.js121436361000000000 0
@@ -10524,7 +10525,7 @@
 184C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\has-flag\readme.md131593942790000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\AssetGraph.js121436361000000000 0
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_WeakMap.js121436361000000000 0
-135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\logo.5d271741.png132696141548504510 0
+135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\logo.5d271741.png132696238538480977 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\argparse\lib\action_container.js131196246910000000 0
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-font-values\node_modules\chalk\license121436361000000000 0
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-font-values\node_modules\chalk\readme.md121436361000000000 0
@@ -10853,7 +10854,7 @@
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\lib\Handle.js121436361000000000 0
 190C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\postcss\lib\processor.js121436361000000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cssom\lib\CSSHostRule.js121436361000000000 0
-182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-define-polyfill-provider\node_modules\.bin132696139992655134 1
+182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-define-polyfill-provider\node_modules\.bin132696139992665102 1
 187C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\postcss\lib\result.js121436361000000000 0
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\postcss\lib\rule.js121436361000000000 0
 192C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\postcss\lib\stringifier.js121436361000000000 0
@@ -10988,7 +10989,7 @@
 207C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-empty\node_modules\chalk\node_modules\supports-color\package.json132696139820861746 0
 204C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-empty\node_modules\chalk\node_modules\supports-color\readme.md131663821590000000 0
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-duplicates\CHANGELOG.md121436361000000000 0
-177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-compilation-targets\node_modules\.bin132696139992452161 1
+177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-compilation-targets\node_modules\.bin132696139992498043 1
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_createInverter.js121436361000000000 0
 191C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-duplicates\node_modules\supports-color\browser.js121436361000000000 0
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\highlight\node_modules\color-name\README.md131339336430000000 0
@@ -11274,7 +11275,7 @@
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-colormin\LICENSE-MIT121436361000000000 0
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\har-schema\lib\content.json131370181680000000 0
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\dom-collections\index.js121436361000000000 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanoid\async132696139176672448 1
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanoid\async132696139178513461 1
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\SetFunctionName.js121436361000000000 0
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-colormin\node_modules132696139572087043 1
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\styles\androidstudio.css121436361000000000 0
@@ -11579,7 +11580,7 @@
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\performance-now\src\performance-now.coffee131283235770000000 0
 139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\now.js121436361000000000 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\performance-now\lib\performance-now.js131319881250000000 0
-161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\node_modules\bn.js\lib132696139173594280 1
+161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\node_modules\bn.js\lib132696139174955936 1
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\index.js121436361000000000 0
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\performance-now\lib\performance-now.js.map131319881250000000 0
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_baseIsSet.js121436361000000000 0
@@ -11680,7 +11681,7 @@
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\icss-utils\node_modules\chalk132696139928271548 1
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\parcel\src\bin.js121436361000000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\parcel\lib\bin.js121436361000000000 0
-148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\.github132696139179459692 1
+148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\.github132696139180411125 1
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\parcel\lib\cli.js121436361000000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\get-value\LICENSE131107119160000000 0
 135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\pako\dist132696139198141953 1
@@ -11796,7 +11797,7 @@
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\CL.js121436361000000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-keys\package.json132696139845937402 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_stringToArray.js121436361000000000 0
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-keys\test132696139158811987 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-keys\test132696139161807396 1
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\trim-end.js121436361000000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\generator\lib\printer.js121012626000000000 0
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-keys\test\index.js121436361000000000 0
@@ -11807,7 +11808,7 @@
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\isInteger.js121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\polyfill.js121436361000000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\shim.js121436361000000000 0
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\test132696139159302581 1
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\test132696139159848776 1
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\test\shimmed.js121436361000000000 0
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\.eslintignore121436361000000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\.eslintrc121436361000000000 0
@@ -11821,13 +11822,13 @@
 173C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\walker\create.js121436361000000000 0
 213C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\coverage\lcov-report\prettify.css121436361000000000 0
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-postcss132696139659962204 1
-145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test132696139177430365 1
+145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test132696139178049650 1
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living132696139323951533 1
 185C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\types\lib\modifications\prependToMemberExpression.js121012626000000000 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-html\lib\inline.js121436361000000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\util.inspect.js121436361000000000 0
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src\sub\b130614920630000000 0
-153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\browser132696139160927246 1
+153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\browser132696139164537503 1
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\deep.js121436361000000000 0
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\trimEnd.js121436361000000000 0
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\fn.js121436361000000000 0
@@ -11852,14 +11853,14 @@
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-copy\node_modules\define-property\package.json132696139847624915 0
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-copy\node_modules\define-property\README.md130854762570000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\oauth-sign\package.json132696139849290974 0
-137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\dist132696139164937767 1
+137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\dist132696139169421409 1
 162C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\BigInt\leftShift.js121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\curryN.js121436361000000000 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\symbol\unscopables.js121436361000000000 0
 181C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-transform-async-to-generator\lib\index.js121012626000000000 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\LICENSE121436361000000000 0
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\iferr\package.json132696139922580494 0
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\src132696139149328225 1
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\src132696139159606713 1
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\src\modules\nwsapi-jquery.js121436361000000000 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\src\modules\nwsapi-traversal.js121436361000000000 0
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\extglob\node_modules\is-accessor-descriptor132696139901546569 1
@@ -11867,7 +11868,7 @@
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\.npmignore130905372080000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\Dependency.js121436361000000000 0
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nwsapi\dist\lint.log121436361000000000 0
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\lib132696139256084042 1
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\lib132696139262817026 1
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nullthrows\nullthrows.js121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\connect\SECURITY.md121436361000000000 0
 175C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-media-scripting.js121436361000000000 0
@@ -11889,7 +11890,7 @@
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\data\processed132696139161887670 1
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_listCacheSet.js121436361000000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\hypot.js121436361000000000 0
-148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\data\raw132696139169642007 1
+148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\data\raw132696139172010863 1
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-releases\data\release-schedule132696139179976905 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\for-each.js121436361000000000 0
 187C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\.github132696139322069298 1
@@ -11905,7 +11906,7 @@
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build\README.md121436361000000000 0
 166C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\Blob.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\CHANGELOG.md121436361000000000 0
-141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\dist132696139270130528 1
+141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\dist132696139270420073 1
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\flat.js121436361000000000 0
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\package.json132696139850557876 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_arrayEvery.js121436361000000000 0
@@ -11975,8 +11976,8 @@
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cssstyle\lib\properties\webkitTextEmphasisColor.js121436361000000000 0
 139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\README.md130614920630000000 0
 134C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test132696139196130930 1
-149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files132696139174178158 1
-155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\symlink-fixtures\src132696139197122215 1
+149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files132696139178941813 1
+155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\symlink-fixtures\src132696139207616819 1
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\symlink-fixtures\src\dir\bar130614920630000000 0
 167C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-syntax-class-properties\lib132696138716862378 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\fast-glob\out\types\index.js121436361000000000 0
@@ -11984,8 +11985,8 @@
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src\c130614920630000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src\d130614920630000000 0
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@nodelib\fs.scandir\out\utils\index.js121436361000000000 0
-159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src\sub132696139192740868 1
-153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files\out132696139174168186 1
+159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src\sub132696139194132269 1
+153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files\out132696139177473436 1
 180C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-proposal-export-namespace-from\README.md121012626000000000 0
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\modified-files\src\a130645404000000000 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\lib\ncp.js130691098110000000 0
@@ -11996,7 +11997,7 @@
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanomatch\lib\cache.js121436361000000000 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanomatch\lib\compilers.js121436361000000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanomatch\lib\utils.js121436361000000000 0
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanoid\bin132696139169505784 1
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\nanoid\bin132696139172248213 1
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\styles\codepen-embed.css121436361000000000 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\regexp\match.js121436361000000000 0
 203C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-posthtml\node_modules\posthtml-parser\.vscode\launch.json121436361000000000 0
@@ -12070,12 +12071,12 @@
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js-compat\node_modules\semver\functions\cmp.js121436361000000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\1.js131378867350000000 0
 166C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\IsNonNegativeInteger.js121436361000000000 0
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\lib132696139176864857 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\lib132696139178222493 1
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\README.md130905372080000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_baseAt.js121436361000000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\unset.js121436361000000000 0
 176C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-define-polyfill-provider\src\browser132696138934541093 1
-143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\test132696139178222493 1
+143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\test132696139179686997 1
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\test.js130905593730000000 0
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\miller-rabin\test\api-test.js130905372080000000 0
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\keys.js121436361000000000 0
@@ -12087,9 +12088,9 @@
 164C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\js-yaml\lib\js-yaml\schema\failsafe.js121436361000000000 0
 139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stage132696139422545713 1
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\merge2\LICENSE121436361000000000 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\api132696139177413086 1
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\api132696139179123369 1
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\Get.js121436361000000000 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\l10n132696139205356689 1
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\l10n132696139212829199 1
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\sort.js121436361000000000 0
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\README.md121436361000000000 0
 160C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\object\is-extensible.js121436361000000000 0
@@ -12125,7 +12126,7 @@
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\fs\lib\OverlayFS.js121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\forOwnRight.js121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lru-cache\README.md121436361000000000 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lowlight\lib132696139174395014 1
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lowlight\lib132696139176043190 1
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-extglob\index.js131207851190000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\log-symbols\license121436361000000000 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash.sortby\package.json132696139892640122 0
@@ -12189,7 +12190,7 @@
 159C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\core\lib\config\partial.js121012626000000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\forEach.js121436361000000000 0
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\forInRight.js121436361000000000 0
-135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp132696139368911773 1
+135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp132696139369014324 1
 138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp.js121436361000000000 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\groupBy.js121436361000000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\shared-key.js121436361000000000 0
@@ -12236,7 +12237,7 @@
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\reflect\has.js121436361000000000 0
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\method.js121436361000000000 0
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\object\get-own-property-symbols.js121436361000000000 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass.cmd132696141327950552 0
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass.cmd132696141845980341 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\mixin.js121436361000000000 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\noop.js121436361000000000 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\omit.js121436361000000000 0
@@ -12248,7 +12249,7 @@
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-html\package.json132696139910262505 0
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\overArgs.js121436361000000000 0
 178C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\scope-hoisting\node_modules\globals\index.js121436361000000000 0
-142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash132696139181005317 1
+142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash132696139189512578 1
 144C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\overSome.js121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\package.json132696139894086414 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2016\modulo.js121436361000000000 0
@@ -12935,7 +12936,7 @@
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsprim\README.md131461639570000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-core-module\core.json121436361000000000 0
 167C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\connect\node_modules\debug\component.json131505607290000000 0
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\json5\dist132696139169327030 1
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\json5\dist132696139172010863 1
 135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\json5\lib132696139179076240 1
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\extglob\node_modules132696139613120592 1
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\asn1.js\lib\asn1.js121436361000000000 0
@@ -13036,7 +13037,7 @@
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\file-api132696138922680072 1
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated132696139177765530 1
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\helpers132696139203110050 1
-158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\dictionaries132696139173067072 1
+158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\dictionaries132696139174266409 1
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\index.js121436361000000000 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\navigator132696139233647161 1
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\node-filter.js121436361000000000 0
@@ -14156,7 +14157,7 @@
 168C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\scss\atelier-forest-dark.scss121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\.travis.yml131322721410000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\package.json132696139886146085 0
-140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\test132696139176518320 1
+140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\test132696139177501687 1
 169C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\test\fixtures\hmac-drbg-nist.json131322706900000000 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hmac-drbg\lib\hmac-drbg.js131362505700000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\LS.js121436361000000000 0
@@ -14502,7 +14503,7 @@
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\README.md121436361000000000 0
 160C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\cors.js121436361000000000 0
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\HT.js121436361000000000 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\test132696139190941624 1
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\test132696139191764973 1
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\test\hmac-test.js121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash.d.ts121436361000000000 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\common.js121436361000000000 0
@@ -14512,7 +14513,7 @@
 179C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js121436361000000000 0
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\replace\Percentage.js121436361000000000 0
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\ripemd.js121436361000000000 0
-146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\sha132696139185626686 1
+146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\sha132696139188690127 1
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\sha.js121436361000000000 0
 151C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\utils.js121436361000000000 0
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\hash.js\lib\hash\sha\256.js121436361000000000 0
@@ -14652,7 +14653,7 @@
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\gensync\README.md121436361000000000 0
 170C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-modules-loader-core\node_modules\postcss132696139932881724 1
 152C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\gensync\test\index.test.js121436361000000000 0
-145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea132696139179989162 1
+145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea132696139180271642 1
 157C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\generic-names.iml121436361000000000 0
 145C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\index.js121436361000000000 0
 147C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\LICENSE121436361000000000 0
@@ -14669,7 +14670,7 @@
 153C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\function-bind\.editorconfig131483790010000000 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\function-bind\.jscs.json131483794420000000 0
 158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\cssom\lib\CSSStyleDeclaration.js121436361000000000 0
-128C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html132696141548656566 0
+128C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html132696238540851121 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\function-bind\.npmignore131483794420000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\reflect132696139419705676 1
 171C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\extglob\node_modules\extend-shallow\README.md130800381770000000 0
@@ -14708,7 +14709,7 @@
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\forever-agent\README.md130714121220000000 0
 148C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\foreach\component.json130558410840000000 0
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\foreach\index.js130558403360000000 0
-158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js-compat\node_modules\.bin132696139995911393 1
+158C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js-compat\node_modules\.bin132696139995922996 1
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\foreach\package.json132696139935126324 0
 143C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\foreach\Readme.md130558403360000000 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\for-in\index.js131326325890000000 0
@@ -15896,8 +15897,8 @@
 156C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\detect-libc\bin\detect-libc.js131536039920000000 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\.jscsrc121436361000000000 0
 142C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\.jshintrc121436361000000000 0
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\lib132696139175050760 1
-137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\test132696139181464198 1
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\lib132696139180102166 1
+137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\test132696139182073984 1
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\entries.js121436361000000000 0
 195C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-posthtml\node_modules\dom-serializer\node_modules132696139438627537 1
 149C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\test\des-test.js121436361000000000 0
@@ -19261,7 +19262,7 @@
 177C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js121436361000000000 0
 161C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\scope-hoisting\src\index.js121436361000000000 0
 160C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\scope-hoisting\src\link.js121436361000000000 0
-135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass132696141327950552 0
+135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass132696141845980341 0
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\scope-hoisting\src\prelude.js121436361000000000 0
 163C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\scope-hoisting\src\renamer.js121436361000000000 0
 172C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\scope-hoisting\src\formats\commonjs.js121436361000000000 0
@@ -19369,7 +19370,7 @@
 182C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing132696139118316354 1
 155C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-html\LICENSE121436361000000000 0
 167C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-html\lib\HTMLPackager.js121436361000000000 0
-135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js132696141548672286 0
+135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js132696238540892500 0
 150C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-css\lib132696138731455674 1
 154C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-css\LICENSE121436361000000000 0
 165C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-css\src\CSSPackager.js121436361000000000 0
@@ -20660,7 +20661,7 @@
 146C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\regjsparser.ps1132696140001123112 0
 137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\rimraf132696140006317718 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\rimraf.cmd132696140006307756 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass.ps1132696141327950552 0
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\sass.ps1132696141845980341 0
 137C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver132696140001395748 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver.cmd132696140001395748 0
 141C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver.ps1132696140001395748 0
@@ -20678,7 +20679,8 @@
 135C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\uuid132696140003464470 0
 136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\which132696140003967137 0
 140C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\which.cmd132696140003967137 0
-138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\favicon.80934ffe.png132696141547943602 0
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c4b52749.svg132696141547943602 0
-136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css132696141548672286 0
-139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js.map132696141548789176 0
+138C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\favicon.80934ffe.png132696238538302918 0
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c4b52749.svg132696238538302918 0
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.d4a14980.svg132696238540207251 0
+136C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css132696238540851121 0
+139C:\Users\Kelvin\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js.map132696238541128684 0
