@@ -1,38 +1,36 @@
- 
+import View from "./view.js";
  import icons from 'url:../../img/icons.svg';
  import {Fraction} from  "fractional"
- class RecipeView{
 
- 
+ class RecipeView extends View{
+
+             
     constructor() {
+      super();
         this._parentElement =   document.querySelector('.recipe');
         this._recipe ="";
+        this.errmessage =  "We could not find the recipe";
+        this.successMessage= "";
     }
-    
-       renderSpinner(){
-        const markUp = `<div class="spinner">
-        <svg>
-          <use href="${icons}#icon-loader"></use>
-        </svg>
-      </div>`;
-          this._clearMethod();
-     this._parentElement.insertAdjacentHTML("afterBegin" , markUp);
-      }
-    render(recipe){
-        this._recipe= recipe;
-        console.log(this._recipe);
-        const markup  = this._markup();
-       this._clearMethod()
-      this._parentElement.insertAdjacentHTML('afterbegin' , markup);
+    addHandlerRender(handler){
+      ["hashchange" ,"load"].forEach(ev=>{
+        window.addEventListener(ev ,handler);
+      });
+    }
+    addHandlerUpdate(handler){
+      this._parentElement.addEventListener("click" , function(e){
+        const btn  =  e.target.closest(".btn--update-servings");
+                if(!btn)return
+   
+    const {updateTo} = btn.dataset;
 
+         if(+updateTo>0)handler(+updateTo);
+      })
     }
-
-    _clearMethod(){
-        this._parentElement.innerHTML = "";
-    }
+      
     _markup(){
 
-        return  `  <figure class="recipe__fig">
+        return  (`  <figure class="recipe__fig">
         <img src=${this._recipe.image} alt=${this._recipe.title} class="recipe__img" />
         <h1 class="recipe__title">
           <span>${this._recipe.title}</span>
@@ -55,12 +53,12 @@
           <span class="recipe__info-text">servings</span>
     
           <div class="recipe__info-buttons">
-            <button class="btn--tiny btn--increase-servings">
+            <button class="btn--tiny btn--update-servings" data-update-to= "${this._recipe.servings-1}"> 
               <svg>
                 <use href="${icons}#icon-minus-circle"></use>
               </svg>
             </button>
-            <button class="btn--tiny btn--increase-servings">
+            <button class="btn--tiny btn--update-servings" data-update-to= "${this._recipe.servings+1}">
               <svg>
                 <use href="${icons}#icon-plus-circle"></use>
               </svg>
@@ -69,9 +67,7 @@
         </div>
     
         <div class="recipe__user-generated">
-          <svg>
-            <use href="${icons}#icon-user"></use>
-          </svg>
+         
         </div>
         <button class="btn--round">
           <svg class="">
@@ -88,7 +84,7 @@
               <svg class="recipe__icon">
                 <use href="${icons}#icon-check"></use>
               </svg>
-              <div class="recipe__quantity">${ (!ing.quantity) ?"null":new Fraction(ing.quantity).toString()}</div>
+              <div class="recipe__quantity">${ (!ing.quantity) ?"":new Fraction(ing.quantity).toString()}</div>
               <div class="recipe__description">
                 <span class="recipe__unit">${ing.unit}</span>
                     ${ing.description}
@@ -119,12 +115,14 @@
           </svg>
         </a>
       </div> `
-    ;
+        );
      
 
     }
 
-   
+  add(){
+    console.log("ksks");
+ }  
 }
 
 

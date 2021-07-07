@@ -1,4 +1,4 @@
-import {timeOutSeconds} from "./config"
+import {timeOutSeconds} from "./config.js"
 
 const timeout = function (s) {
     return new Promise(function (_, reject) {
@@ -15,15 +15,16 @@ try{
     const res =  await Promise.race([fetch(`${url}`) , timeout(timeOutSeconds)]) ;
  
     const data =  await res.json();
-    
+    console.log(res);
+    console.log(data)
     if(!res.ok){
-     throw new Error(`${data.error} (${res.status})`);
+     throw new Error(`${data.message}, ${res.status}`);
    }
    console.log(res);
  
-    console.log(data)
+    
     return data;
     }catch(err){
-       throw err;
+       throw err.message;
     }
 }
