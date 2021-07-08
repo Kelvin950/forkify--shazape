@@ -13,16 +13,19 @@ export default class View{
           this._clearMethod();
      this._parentElement.insertAdjacentHTML("afterBegin" , markUp);
       }
-    render(data){
+    render(data , render =true){
 if(!data || (Array.isArray(data) && data.length ===0)){
 
-   return
+   return;
 }
+
 
 
         this._recipe= data;
   
         const markup  = this._markup();
+
+        if(!render) return markup;
         
        this._clearMethod();
       this._parentElement.insertAdjacentHTML('afterbegin' ,markup );
@@ -32,10 +35,7 @@ if(!data || (Array.isArray(data) && data.length ===0)){
    
 update(data)
 {
-  if(!data || (Array.isArray(data) && data.length ===0)){
 
-    return 
- }
 
  this._recipe= data;
   
@@ -45,20 +45,21 @@ update(data)
  const newDom =  document.createRange().createContextualFragment(Newmarkup);
  const  newElements=  Array.from(newDom.querySelectorAll("*"));
 const  curElements  = Array.from(this._parentElement.querySelectorAll("*"))
- console.log(curElements);
- console.log(newElements);
+ //console.log(curElements);
+ //console.log(newElements);
 
  newElements.forEach((el , i)=>{
    const curEl =  curElements[i];
-   console.log(curEl , el.isEqualNode(curEl));
-
+   //console.log(curEl , el.isEqualNode(curEl));
+//update change text
    if(!el.isEqualNode(curEl)&& el.firstChild?.nodeValue.trim() !== ""){
-     console.log(  "iuu" ,el.firstChild.nodeValue.trim());
+    // console.log(  "iuu" ,el.firstChild.nodeValue.trim());
      curEl.textContent =  el.textContent;
    }
-
+ //updates  changed attrrubutes
    if(!el.isEqualNode(curEl)){
-     console.log(new);
+  //console.log(el.attributes);
+     Array.from(el.attributes).forEach(attr=> curEl.setAttribute(attr.name , attr.value));
    }
  });
  

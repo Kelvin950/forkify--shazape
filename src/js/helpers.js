@@ -15,12 +15,12 @@ try{
     const res =  await Promise.race([fetch(`${url}`) , timeout(timeOutSeconds)]) ;
  
     const data =  await res.json();
-    console.log(res);
-    console.log(data)
+  //  console.log(res);
+  //  console.log(data)
     if(!res.ok){
      throw new Error(`${data.message}, ${res.status}`);
    }
-   console.log(res);
+  //console.log(res);
  
     
     return data;

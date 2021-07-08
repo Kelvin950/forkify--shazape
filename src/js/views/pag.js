@@ -15,7 +15,7 @@ class Pag extends View{
     
         const curPage = Number(this._recipe.page); 
         const numPages =  Math.ceil(this._recipe.result.length/this._recipe.resultsPerPage);
-        console.log(numPages);
+     //   console.log(numPages);
     
     //page 1 and there are other pages
         if(curPage ===1 && numPages>1){
@@ -65,9 +65,9 @@ class Pag extends View{
      render1(data){
     
          this._recipe =  data;
-         console.log(this._recipe);
+        // console.log(this._recipe);
          const markup  = this._markup();
-         console.log(markup);
+       //  console.log(markup);
         this._clearMethod();
        this._parentElement.insertAdjacentHTML('afterbegin' ,markup );
      }
@@ -76,11 +76,11 @@ class Pag extends View{
        this._parentElement.addEventListener("click" , function(e){
          
         const btn =  e.target.closest('.btn--inline');
-        console.log(btn);
+      //  console.log(btn);
         if(!btn) return;
        
         const gotoPage  = btn.dataset.goto;
-        console.log(gotoPage);
+        //console.log(gotoPage);
         handler(gotoPage);
        })
      }
