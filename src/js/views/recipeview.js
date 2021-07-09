@@ -73,10 +73,11 @@ import View from "./view.js";
             </button>
           </div>
         </div>
-    
-        <div class="recipe__user-generated">
-         
-        </div>
+        <div class="recipe__user-generated ${this._recipe.key? "" : "hidden"}">
+               <svg>
+                   <use href="${icons}#icon-user"></use>
+              </svg>
+      </div>
         <button class="btn--round btn--bookmark">
           <svg class="">
             <use href="${icons}#icon-bookmark${this._recipe.bookmark ?  "-fill" : ""}"></use>

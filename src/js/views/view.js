@@ -83,8 +83,8 @@ const  curElements  = Array.from(this._parentElement.querySelectorAll("*"))
     this._parentElement.insertAdjacentHTML("afterBegin", markup);
     }
     
-    successMessage(message =  this.successMessage){
-     const markup=`  <div class="message">
+    successMessage(message =  this._successMessage){
+     const markup=`<div class="message">
       <div>
         <svg>
           <use href="${icons}#icon-smile"></use>
