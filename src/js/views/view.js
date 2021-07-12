@@ -13,6 +13,16 @@ export default class View{
           this._clearMethod();
      this._parentElement.insertAdjacentHTML("afterBegin" , markUp);
       }
+
+      /**
+       * Render the received object to the dom
+       * @param {object | object[]} data The data to be rendered (eg. recipe)
+       * @param {boolean} [render =  true]  if false create markup string instead of rending to the dom
+       * Returns [undefined | string]
+       * @this {object} View instance
+       * @author KElvin Baiden
+       * @todo finish the documentation
+       */
     render(data , render =true){
 if(!data || (Array.isArray(data) && data.length ===0)){
 
